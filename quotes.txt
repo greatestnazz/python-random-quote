@@ -12,3 +12,5 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Alpha has entered Omega realm
+ALpha has entered the Omega Realm
